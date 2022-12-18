@@ -2,7 +2,7 @@
 
 I'm Foxxite and I create Software, Websites, Backend Systems & Frontend Designs. 
 
-🔭 I’m currently working on stuff [Lemon Roleplay](https://lemonrp.nl)   
+🔭 I’m currently working on [Lemon Roleplay](https://lemonrp.nl)   
 ⚡ Fun fact: Likes foxes a bit too much 🦊   
 😄 Pronouns: he/they  
 📫 How to reach me: [foxxite.com](https://foxxite.com)
