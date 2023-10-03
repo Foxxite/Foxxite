@@ -2,10 +2,14 @@
 
 I'm Foxxite and I create Software, Websites, Backend Systems & Frontend Designs. 
 
-🔭 I’m currently working on mutiple projects
-🌱 I’m currently learning Unreal Engine 5
+🔭 I’m currently working on mutiple projects  
+
+🌱 I’m currently learning Unreal Engine 5  
+
 ⚡ Fun fact: Likes foxes a bit too much 🦊   
+
 😄 Pronouns: he/they  
+
 📫 How to reach me: [foxxite.com](https://foxxite.com)
 
 ### Stats
